@@ -1,0 +1,8 @@
+@inproceedings{sen2021optimal,
+  title={Optimal minimal-contact routing of randomly arriving agents through connected networks},
+  author={Sen, Diptangshu and Ramamohan, Varun and Ramamoorthy, Prasanna},
+  booktitle={2021 Winter Simulation Conference (WSC)},
+  pages={1--12},
+  year={2021},
+  organization={IEEE}
+}
